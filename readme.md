@@ -1,0 +1,1 @@
+flex yapısı kullanıldı.
